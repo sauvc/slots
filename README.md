@@ -1,7 +1,10 @@
 # SAUVC 2018 Slots
 
 ## Qualification Slots
+<center>Updated : 2nd March 2018</center>
 
+<center>
+  
 | Team ID     | Qualifying Time Slot | Arena | 
 |-------------|----------------------|-------| 
 | SAUVC-BD-01 | 09:20 - 09:40        | 1     | 
@@ -33,3 +36,5 @@
 | SAUVC-SG-04 | 10:20 - 10:40        | 1     | 
 | SAUVC-SG-06 | 09:40 - 10:00        | 2     | 
 | SAUVC-TH-01 | 11:40 - 12:00        | 2     | 
+
+</center>
