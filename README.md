@@ -1,7 +1,6 @@
-SAUVC 2018 Slots
--------------
+# SAUVC 2018 Slots
 
-# Qualification Slots
+## Qualification Slots
 
 | Time | Team |
 | ---- | ---- |
