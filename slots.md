@@ -1,27 +1,33 @@
-title: The Singapore AUV Challenge 2018 Slots
+title: The Singapore AUV Challenge 2019 Slots
 ---
 
-<center><h1> SAUVC 2018 Qualified Teams </h1></center>
+<center><h1> SAUVC 2019 Qualification Slots </h1></center>
 
-Updated : **10th March 2018**
+Updated : **4th March 2019**
 
-|# | Team ID      | Institute                                     |  Time Slot   |
-|---|-------------|-----------------------------------------------|-------------:|
-|1  | SAUVC-BD-01 | BRAC University                               |9:00 to 9:15  |
-|2  | SAUVC-IN-12 | NIT Rourkela                                  |9:20 to 9:35  |
-|3  | SAUVC-SG-06 | Nanyang Technological University              |9:40 to 9:55  |
-|4  | SAUVC-HK-03 | The Hong Kong Polytechnic University          |10:00 to 10:15|
-|5  | SAUVC-ID-01 | Bogor Agricultural University                 |10:20 to 10:35|
-|6  | SAUVC-IN-09 | Mukesh Patel School of Technology             |10:40 to 10:55|
-|7  | SAUVC-SG-04 | Ngee Ann Polytechnic                          |11:00 to 11:15|
-|8  | SAUVC-LK-01 | University of Peradeniya                      |11:20 to 11:35|
-|9  | SAUVC-CN-01 | Northwestern Polytechnical University         |11:40 to 11:55|
-|10 | SAUVC-PK-01 | Center for Advanced Studies in Engineering    |12:00 to 12:15|
-|11 | SAUVC-RU-01 | Far Eastern Federal University                |12:20 to 11:35|
-|12 | SAUVC-IN-13 | Sri Venkateswara College Of Engineering       |12:40 to 12:55|
-|13 | SAUVC-TH-01 | Kasetsart University                          |13:00 to 13:15|
-|14 | SAUVC-MY-03 | Universiti Teknikal Malaysia Melaka           |13:20 to 13:35|
-|15 | SAUVC-HK-02 | City University of Hong Kong                  |13:40 to 13:55|
+|# | Time slot     | Arena 1     | Arena 1                             | Arena 2     | Arena 2         |
+|--|---------------|-------------|-------------------------------------|-------------|-----------------|
+|  |               | **Team ID** | **Team Name**                       | **Team ID** | **Team Name**   |
+|1 | 9:00  - 9:20  |             |                                     |             |                 |
+|2 | 9:20  - 9:40  | SAUVC-CN-02 | Intelligence Marine Vehicle Team    | SAUVC-JP-01 | Clairvoyance    |
+|3 | 9:40  - 10:00 |             |                                     | SAUVC-CN-01 | I-Sea           |
+|4 | 10:00 - 10:20 | SAUVC-RU-01 | FEFU/IMTP                           | SAUVC-TW-01 | PENGUIN_PO      |
+|5 | 10:20 - 10:40 | SAUVC-LK-01 | Yathra                              | SAUVC-MY-04 | UTeM Panther    |
+|6 | 10:40 - 11:00 | SAUVC-MY-01 | IIUM ROBOTEAM                       | SAUVC-IN-19 | Team SRMAUV     |
+|7 | 11:00 - 11:20 | SAUVC-IN-17 | Team ATV                            | SAUVC-IN-26 | Team NIRMA AUV  |
+|8 | 11:20 - 11:40 | SAUVC-RU-02 | Hydronautics                        | SAUVC-SG-03 | C-Bas MECATRON  |
+|9 | 11:40 - 12:00 | SAUVC-ID-04 | Tech_SAS                            | SAUVC-IN-16 | DTU AUV         |
+|10| 12:00 - 12:20 | SAUVC-MO-01 | The Phoenix                         | SAUVC-BD-01 | BRACU Duburi    |
+|11| 12:20 - 12:40 | SAUVC-BD-02 | Team Atlas                          | SAUVC-MY-02 | TUAH 3.0        |
+|12| 12:40 - 13:00 | SAUVC-IN-22 | Team KAIJU                          | SAUVC-SG-01 | Speedy Gonzales |
+|13| 13:00 - 13:20 | SAUVC-IN-05 | Team AUV MPSTME                     | SAUVC-IN-15 | AUV-IITK        |
+|14| 13:20 - 13:40 | SAUVC-TH-01 | Zeabus                              | SAUVC-MY-03 | Noah's Ark      |
+|15| 13:40 - 14:00 | SAUVC-HK-02 | CityU Underwater Robotics - Pioneer | SAUVC-IN-18 | Trident Labs    |
+|16| 14:00 - 14:20 | SAUVC-IN-25 | BIT-AUV                             | SAUVC-HK-01 | Uprising        |
+|17| 14:20 - 14:40 | SAUVC-SG-06 | NPES                                | SAUVC-ID-02 | N3-AUV          |
+|18| 14:40 - 15:00 | SAUVC-HK-03 | CityU Underwater Robotics - Juneer  | SAUVC-SG-05 | Team Bloop      |
+|19| 15:00 - 15:20 | SAUVC-SG-07 | Bubbles                             | SAUVC-ID-03 | N2-AUV          |
+|20| 15:20 - 15:40 | SAUVC-SG-02 | Hornet                              | SAUVC-IN-13 | TIBURON         |
 
 
 
