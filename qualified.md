@@ -1,7 +1,7 @@
-title: The Singapore AUV Challenge 2019 Qualified Teams
+title: The Singapore AUV Challenge 2019 Finalists
 ---
 
-<center><h1> SAUVC 2019 Qualified Teams </h1></center>
+<center><h1> SAUVC 2019 Finalists </h1></center>
 
 Updated : **9th March 2019**
 
