@@ -1,0 +1,15 @@
+| 1| SAUVC-ID-04 | Tech_SAS        |
+| 2| SAUVC-ID-03 | N2-AUV          |
+| 3| SAUVC-ID-02 | N3-AUV          |
+| 4| SAUVC-MY-04 | UTeM Panther    |
+| 5| SAUVC-HK-02 | CityU Pioneer   |
+| 6| SAUVC-RU-01 | FEFU/IMTP       |
+| 7| SAUVC-MY-01 | IIUM ROBOTEAM   |
+| 8| SAUVC-RU-02 | Hydronautics    |
+| 9| SAUVC-CN-01 | I-Sea           |
+|10| SAUVC-MO-01 | The Phoenix     |
+|11| SAUVC-TH-01 | Zeabus          |
+|12| SAUVC-SG-02 | Hornet          |
+|13| SAUVC-HK-01 | Uprising        |
+|14| SAUVC-IN-05 | Team AUV MPSTME |
+|15| SAUVC-SG-07 | Bubbles         |

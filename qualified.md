@@ -3,22 +3,22 @@ title: The Singapore AUV Challenge 2019 Qualified Teams
 
 <center><h1> SAUVC 2019 Qualified Teams </h1></center>
 
-Updated : **5th March 2019**
+Updated : **9th March 2019**
 
-<!-- |# | Team ID     | Institute                                     |
-| -| ------------|-----------------------------------------------|
-|1 | SAUVC-HK-02 | City University of Hong Kong                  |
-|2 | SAUVC-MY-03 | Universiti Teknikal Malaysia Melaka           |
-|3 | SAUVC-TH-01 | Kateserat University                          |
-|4 | SAUVC-IN-13 | Sri Venkateswara College Of Engineering       |
-|5 | SAUVC-RU-01 | Far Eastern Federal University                |
-|6 | SAUVC-PK-01 | Center for Advanced Studies in Engineering    |
-|7 | SAUVC-CN-01 | Northwestern Polytechnical University         |
-|8 | SAUVC-LK-01 | University of Peradeniya                      |
-|9 | SAUVC-SG-04 | Ngee Ann Polytechnic                          |
-|10| SAUVC-IN-09 | Mukesh Patel School of Technology             |
-|11| SAUVC-ID-01 | Bogor Agricultural University                 |
-|12| SAUVC-HK-03 | The Hong Kong Polytechnic University          |
-|13| SAUVC-SG-06 | Nanyang Technological University              |
-|14| SAUVC-IN-12 | NIT Rourkela                                  |
-|15| SAUVC-BD-01 | BRAC University                               | -->
+| #  | Team ID     | Team            | University                                               |
+|----|-------------|-----------------|----------------------------------------------------------|
+| 1  | SAUVC-SG-07 | Bubbles         | SUTD                                                     |
+| 2  | SAUVC-IN-05 | Team AUV MPSTME | Mukesh Patel School of Technology Management	&	Engineering |
+| 3  | SAUVC-HK-01 | Uprising        | The Hong Kong Polytechnic University                     |
+| 4  | SAUVC-SG-02 | Hornet          | National University of Singapore                         |
+| 5  | SAUVC-TH-01 | Zeabus          | Kasetsart University                                     |
+| 6  | SAUVC-MO-01 | The Phoenix     | Macau Pui Ching Middle School                            |
+| 7  | SAUVC-CN-01 | I-Sea           | Shanghai Jiao Tong University                            |
+| 8  | SAUVC-RU-02 | Hydronautics    | Bauman Moscow State Technical University                 |
+| 9  | SAUVC-MY-01 | IIUM ROBOTEAM   | International Islamic University Malaysia                |
+| 10 | SAUVC-RU-01 | FEFU/IMTP       | Far Eastern Federal University                           |
+| 11 | SAUVC-HK-02 | CityU Pioneer   | City University of Hong Kong                             |
+| 12 | SAUVC-MY-04 | UTeM Panther    | Universiti Teknikal Malaysia Melaka                      |
+| 13 | SAUVC-ID-02 | N3-AUV          | Bogor Agricultural University                            |
+| 14 | SAUVC-ID-03 | N2-AUV          | Bogor Agricultural University                            |
+| 15 | SAUVC-ID-04 | Tech_SA         | Telkom University                                        |
