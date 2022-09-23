@@ -3,7 +3,7 @@ title: The Singapore AUV Challenge 2022 Slots
 
 <center><h1> SAUVC 2022 Qualification Slots </h1></center>
 
-Updated : **18th September 2022**
+Updated : **23rd September 2022**
 
 |# | Time slot     | Arena 1     | Arena 1          | Arena 2     | Arena 2         | Arena 3     | Arena 3         |
 |--|---------------|-------------|------------------|-------------|-----------------|-------------|-----------------|
