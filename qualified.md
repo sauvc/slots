@@ -5,9 +5,6 @@ title: The Singapore AUV Challenge 2022 Finalists
 
 Updated : **24th Sept 2022**
 
-|    Time   | Team ID     | Team            | University                                               |
-|-----------|-------------|-----------------|----------------------------------------------------------|
-
 | Time      | Team ID     | Team                                  | University                                          |
 | --------- | ----------- | ------------------------------------- | --------------------------------------------------- |
 | 0900-0920 | SAUVC-TH-01 | SEAPUP                                | Kasetsart University                                |
