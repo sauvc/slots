@@ -21,4 +21,4 @@ Updated : **23rd September 2022**
 |11| 13:00 - 13:20 | SAUVC-HK-02 | JUNEER | SAUVC-SG-04| Mecatron | SAUVC-HK-01| PIONEER |
 |12| 13:20 - 13:40 | SAUVC-IN-09 | HUSTLERS | SAUVC-TR-05| CALROV | SAUVC-TH-01| SEAPUP |
 |13| 13:40 - 14:00 | SAUVC-IN-01 | BITAUV | SAUVC-SG-03| UwU | SAUVC-ID-06| Banyubramanta ITS |
-|14| 14:00 - 14:20 | SAUVC-IN-02 |Team Shaurya | SAUVC-IN-06| Oceanus | SAUVC-IN-08| Oceanus |
+|14| 14:00 - 14:20 | SAUVC-IN-02 |Team Shaurya | SAUVC-IN-06| Oceanus | SAUVC-IN-08| Varuna |
