@@ -1,24 +1,32 @@
-title: The Singapore AUV Challenge 2022 Slots
+title: The Singapore AUV Challenge 2024 Slots
 ---
 
-<center><h1> SAUVC 2022 Qualification Slots </h1></center>
+<style>
+    body    {
+        min-width : 80%
+    }
+</style>
 
-Updated : **23rd September 2022**
+<center><h1> SAUVC 2024 Qualification Slots </h1></center>
 
-|# | Time slot     | Arena 1     | Arena 1          | Arena 2     | Arena 2         | Arena 3     | Arena 3         |
-|--|---------------|-------------|------------------|-------------|-----------------|-------------|-----------------|
-|  |               | **Team ID** | **Team Name**    | **Team ID** | **Team Name**   | **Team ID** | **Team Name**   |
-|1 | 9:15  - 9:35  |             |                  |             |                 |             |                 |
-|2 | 9:35  - 9:55  |             |                  |             |                 |             |                 |
-|3 | 9:55  - 10:15 | SAUVC-TR-04 | BTU AUV | SAUVC-TR-03| Istanbulensis Robotic Team | SAUVC-BD-01| BRACU DUBURI    |
-|4 | 10:15 - 10:35 | SAUVC-SG-02 | Deep Sea 9 | SAUVC-IN-05| AUVMEC | SAUVC-ID-03| FIToplankton |
-|5 | 10:35 - 10:55 |             |                  | SAUVC-RU-03 | FEFU&IMTP | SAUVC-CN-01| HEUEV |
-|6 | 10:55 - 11:15 | SAUVC-IN-07 | MGR ARI AUV | SAUVC-IN-04| Team Nirma AUV | SAUVC-ID-04| TECH_SAS |
-|7 | 11:15 - 11:35 | SAUVC-TR-02 | ITU AUV TEAM | SAUVC-RU-01| Hydronautics | SAUVC-RU-02| Hydronautics_2 |
-|8 | 11:35 - 11:55 | SAUVC-ID-01 | N4-AUV | SAUVC-ID-02| N5-AUV | SAUVC-MY-01| SOTON HORNBILLS |
-|9 | 11:55 - 12:10 | SAUVC-TW-01 | ORCA AUV | SAUVC-JP-01| HIT-Robotics | SAUVC-ID-05| AMV UI |
-|10| 12:10 - 13:00 |   LUNCH     |                  |    LUNCH    |                 |    LUNCH    |                 |
-|11| 13:00 - 13:20 | SAUVC-HK-02 | JUNEER | SAUVC-SG-04| Mecatron | SAUVC-HK-01| PIONEER |
-|12| 13:20 - 13:40 | SAUVC-IN-09 | HUSTLERS | SAUVC-TR-05| CALROV | SAUVC-TH-01| SEAPUP |
-|13| 13:40 - 14:00 | SAUVC-IN-01 | BITAUV | SAUVC-SG-03| UwU | SAUVC-ID-06| Banyubramanta ITS |
-|14| 14:00 - 14:20 | SAUVC-IN-02 |Team Shaurya | SAUVC-IN-06| Oceanus | SAUVC-IN-08| Varuna |
+Updated : **23rd March 2024**
+
+|    | Time slot     | Arena 1     | Arena 1         | Arena 2     | Arena 2            | Arena 3     | Arena 3           |
+|----|---------------|-------------|-----------------|-------------|--------------------|-------------|-------------------|
+|    |               | **Team ID** | **Team Name**   | **Team ID** | **Team Name**      | **Team ID** | **Team Name**     |
+|  1 |  9:15  - 9:35 | SA72        | AquaDrag        | IN29        | Team Tiburon       |             |                   |
+| 2  | 9:35  - 9:55  | SG37        | Bumblebee       | CN25        | Xing Hun           |             |                   |
+| 3  | 9:55  - 10:15 | SG32        | Hornet9         | JP04        | Kyutech Underwater | IN65        | Team MYSTUS       |
+| 4  | 10:15 - 10:35 | IN02        | Team Nirma      | ID05        | FIToplankton       | IN49        | Team DIVE         |
+| 5  | 10:35 - 10:55 | IN90        | Makara 2        | IN71        | Oceanic Seekers    | ID59        | Banyubramanta ITS |
+| 6  | 10:55 - 11:15 | IN64        | Team ABYSS      | IN74        | Kurma              | IN91        | HydroBots HAVOC   |
+| 7  | 11:15 - 11:35 | LK10        | Team Diyakawa   | ID16        | HYDROships         | TR58        | Creatiny AUV      |
+| 8  | 11:35 - 11:55 | IN12        | AUV IITK        | IN03        | AQUABOT            | IN86        | Edhitha UAS       |
+| 9  | 11:55 - 12:10 | IN08        | Team Amogh      | SG30        | SUwUtd             | MY63        | NAVAL UMT         |
+| 10 | 12:10 - 13:00 | LUNCH       | LUNCH           | LUNCH       | LUNCH              | LUNCH       | LUNCH             |
+| 11 | 13:00 - 13:20 | RU21        | FEFU AUV        | IN54        | Team Varuna        | RU60        | Hydronautics      |
+| 12 | 13:20 - 13:40 | IN47        | Team Saaral     | HK24        | Manta Ray          | RU62        | SeveROV           |
+| 13 | 13:40 - 14:00 | TW77        | NYCU ORCA       | ID38        | AMV UI             | SG31        | SP AUV            |
+| 14 | 14:00 - 14:20 | BD75        | IUB Bongomarine | HK42        | CityU Underwater   | HK50        | PolyU EEE         |
+| 15 | 14:20 - 14:40 | TR44        | ALESTA          | IN55        | MU                 | SG45        | Mecatron          |
+| 14 | 14:40 - 15:00 | ID14        | N5 AUV          | ID15        | N4 AUV             | IN40        | AUV-IITB          |
