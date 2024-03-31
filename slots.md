@@ -14,13 +14,13 @@ Updated : **23rd March 2024**
 |    | Time slot     | Arena 1     | Arena 1         | Arena 2     | Arena 2            | Arena 3     | Arena 3           |
 |----|---------------|-------------|-----------------|-------------|--------------------|-------------|-------------------|
 |    |               | **Team ID** | **Team Name**   | **Team ID** | **Team Name**      | **Team ID** | **Team Name**     |
-|  1 | 9:15  - 9:35 |  SA72        | AquaDrag        |             |                    |             |                   |
-| 2  | 9:35  - 9:55  | SG37        | Bumblebee       | CN25        | Xing Hun           |             |                   |
+|  1 | 9:15  - 9:35 |              |                 |             |                    |             |                   |
+| 2  | 9:35  - 9:55  | SG37        | Bumblebee       | CN25        | Xing Hun           | SA72        | AquaDrag          |
 | 3  | 9:55  - 10:15 | SG32        | Hornet9         | JP04        | Kyutech Underwater | IN65        | Team MYSTUS       |
 | 4  | 10:15 - 10:35 | IN02        | Team Nirma      | ID05        | FIToplankton       | IN49        | Team DIVE         |
 | 5  | 10:35 - 10:55 | IN90        | Makara 2        | IN71        | Oceanic Seekers    | ID59        | Banyubramanta ITS |
 | 6  | 10:55 - 11:15 | IN64        | Team ABYSS      | IN74        | Kurma              | IN91        | HydroBots HAVOC   |
-| 7  | 11:15 - 11:35 | LK10        | Team Diyakawa   | ID16        | HYDROships         | TR58        | Creatiny AUV      |
+| 7  | 11:15 - 11:35 | LK10        | Team Diyakawa   | ID16        | HYDROships         |             |                   |
 | 8  | 11:35 - 11:55 | IN12        | AUV IITK        | IN03        | AQUABOT            | IN86        | Edhitha UAS       |
 | 9  | 11:55 - 12:10 | IN08        | Team Amogh      | SG30        | SUwUtd             | MY63        | NAVAL UMT         |
 | 10 | 12:10 - 13:00 | LUNCH       | LUNCH           | LUNCH       | LUNCH              | LUNCH       | LUNCH             |
