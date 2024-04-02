@@ -14,7 +14,7 @@ Updated : **23rd March 2024**
 |    | Time slot     | Arena 1     | Arena 1         | Arena 2     | Arena 2            | Arena 3     | Arena 3           |
 |----|---------------|-------------|-----------------|-------------|--------------------|-------------|-------------------|
 |    |               | **Team ID** | **Team Name**   | **Team ID** | **Team Name**      | **Team ID** | **Team Name**     |
-|  1 | 9:15  - 9:35  |              |                 |             |                    |             |                   |
+|  1 | 9:15  - 9:35  |             |                 |             |                    |             |                   |
 | 2  | 9:35  - 9:55  | SG37        | Bumblebee       | CN25        | Xing Hun           | SA72        | AquaDrag          |
 | 3  | 9:55  - 10:15 | SG32        | Hornet9         | JP04        | Kyutech Underwater | IN65        | Team MYSTUS       |
 | 4  | 10:15 - 10:35 | IN02        | Team Nirma      | ID05        | FIToplankton       | IN49        | Team DIVE         |
