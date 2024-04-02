@@ -1,9 +1,9 @@
-title: The Singapore AUV Challenge 2022 Finalists
+title: The Singapore AUV Challenge 2024 Finalists
 ---
 
-<center><h1> SAUVC 2022 Finalists </h1></center>
+<center><h1> SAUVC 2024 Finalists </h1></center>
 
-Updated : **24th Sept 2022**
+Updated : **2nd April 2024**
 
 | Time      | Team ID     | Team                                  | University                                          |
 | --------- | ----------- | ------------------------------------- | --------------------------------------------------- |
