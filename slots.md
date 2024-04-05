@@ -19,7 +19,7 @@ Updated : **23rd March 2024**
 | 4  | 10:15 - 10:35 | IN02        | Team Nirma      | ID05        | FIToplankton       |             |                   |
 | 5  | 10:35 - 10:55 |             |                 | IN71        | Oceanic Seekers    | ID59        | Banyubramanta ITS |
 | 6  | 10:55 - 11:15 | IN64        | Team ABYSS      | IN74        | Kurma              | IN91        | HydroBots HAVOC   |
-| 7  | 11:15 - 11:35 |             |                 | ID16        | HYDROships         | RU60        |  Hydronautics     |
+| 7  | 11:15 - 11:35 |             |                 | ID16        | HYDROships         | RU60        | Hydronautics      |
 | 8  | 11:35 - 11:55 |             |                 | IN03        | AQUABOT            | IN86        | Edhitha UAS       |
 | 9  | 11:55 - 12:10 | TR44        | ALESTA          | SG30        | SUwUtd             | MY63        | NAVAL UMT         |
 | 10 | 12:10 - 13:00 | LUNCH       | LUNCH           | LUNCH       | LUNCH              | LUNCH       | LUNCH             |
