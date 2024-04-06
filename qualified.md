@@ -1,6 +1,12 @@
 title: The Singapore AUV Challenge 2024 Finalists
 ---
 
+<style>
+    body    {
+        min-width : 80%
+    }
+</style>
+
 <center><h1> SAUVC 2024 Finalists </h1></center>
 
 Updated : **6th April 2024**
