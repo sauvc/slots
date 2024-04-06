@@ -28,4 +28,4 @@ Updated : **23rd March 2024**
 | 13 | 13:40 - 14:00 | TW77        | NYCU ORCA       | ID38        | AMV UI             | SG31        | SP AUV            |
 | 14 | 14:00 - 14:20 | BD75        | IUB Bongomarine | HK42        | CityU Underwater   | HK50        | PolyU EEE         |
 | 15 | 14:20 - 14:40 |             |                 | LK10        | Team Diyakawa      | SG45        | Mecatron          |
-| 14 | 14:40 - 15:00 | ID14        | N5 AUV          | ID15        | N4 AUV             | IN40        | AUV-IITB          |
+| 14 | 14:40 - 15:00 | ID14        | N5 AUV          | ID15        | N4 AUV             | IN47        | AUV-IITB          |
