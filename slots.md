@@ -7,25 +7,28 @@ title: The Singapore AUV Challenge 2024 Slots
     }
 </style>
 
-<center><h1> SAUVC 2024 Qualification Slots </h1></center>
+<center><h1> SAUVC 2025 Qualification Slots </h1></center>
 
-Updated : **23rd March 2024**
+Updated : **7th March 2025**
 
-|    | Time slot     | Arena 1     | Arena 1         | Arena 2     | Arena 2            | Arena 3     | Arena 3           |
-|----|---------------|-------------|-----------------|-------------|--------------------|-------------|-------------------|
-|    |               | **Team ID** | **Team Name**   | **Team ID** | **Team Name**      | **Team ID** | **Team Name**     |
-| 2  | 9:35  - 9:55  | SG37        | Bumblebee       |             |                    |             |                   |
-| 3  | 9:55  - 10:15 | SG32        | Hornet9         | JP04        | Kyutech Underwater |             |                   |
-| 4  | 10:15 - 10:35 | IN02        | Team Nirma      | ID05        | FIToplankton       |             |                   |
-| 5  | 10:35 - 10:55 |             |                 | IN71        | Oceanic Seekers    | ID59        | Banyubramanta ITS |
-| 6  | 10:55 - 11:15 | IN64        | Team ABYSS      | IN74        | Kurma              | IN91        | HydroBots HAVOC   |
-| 7  | 11:15 - 11:35 |             |                 | ID16        | HYDROships         | RU60        | Hydronautics      |
-| 8  | 11:35 - 11:55 |             |                 | IN03        | AQUABOT            | IN86        | Edhitha UAS       |
-| 9  | 11:55 - 12:10 | TR44        | ALESTA          | SG30        | SUwUtd             | MY63        | NAVAL UMT         |
-| 10 | 12:10 - 13:00 | LUNCH       | LUNCH           | LUNCH       | LUNCH              | LUNCH       | LUNCH             |
-| 11 | 13:00 - 13:20 | SA72        | AquaDrag        | IN54        | Team Varuna        |             |                   |
-| 12 | 13:20 - 13:40 | IN08        | Team Amogh      | HK24        | Manta Ray          | RU62        | SeveROV           |
-| 13 | 13:40 - 14:00 | TW77        | NYCU ORCA       | ID38        | AMV UI             | SG31        | SP AUV            |
-| 14 | 14:00 - 14:20 | BD75        | IUB Bongomarine | HK42        | CityU Underwater   | HK50        | PolyU EEE         |
-| 15 | 14:20 - 14:40 |             |                 | LK10        | Team Diyakawa      | SG45        | Mecatron          |
-| 14 | 14:40 - 15:00 | ID14        | N5 AUV          | ID15        | N4 AUV             | IN47        | Team Saaral       |
+|    | Time slot     | Arena 1     | Arena 1             | Arena 2     | Arena 2             | Arena 3     | Arena 3                       |
+|----|---------------|-------------|---------------------|-------------|---------------------|-------------|-------------------------------|
+|    |               | **Team ID** | **Team Name**       | **Team ID** | **Team Name**       | **Team ID** | **Team Name**                 |
+| 1  | 9:00  - 9:20  | HK02        | CityUHK - PIONEER   | ID04        | HYDROships          | HK04        | Searious Business             |
+| 2  | 9:20  - 9:40  | ID03        | MARE VICTOR         | TR02        | MYS Abdülhamid      | ID05        | Barelang Marine Robotics Team |
+| 3  | 9:40  - 10:00 | ID06        | N7-AUV              | ID01        | FIToplankton        | ID07        | Skullers Boro HMFT-ITB        |
+| 4  | 10:00 - 10:20 | IN07        | AUV Society IIITDM  | SG04        | Venturer SP         | SG05        | Mecatron (Kevin AUV)          |
+| 5  | 10:20 - 10:40 | ID08        | Subnautic Rimau     | ID09        | Banyubramanta       | ID11        | N3.2-AUV                      |
+| 6  | 10:40 - 11:00 |             |                     | HK03        | Manta Ray           | IN01        | HydroBots HAVOC               |
+| 7  | 11:00 - 11:20 | LK01        | Team Yathra         | IN02        | Team Black Pearl    | IN03        | Team Nirma AUV                |
+| 8  | 11:20 - 11:40 | IN05        | Team Tiburon        | IN10        | VAUV                | IN11        | Nautical Navigators           |
+| 9  | 11:40 - 12:00 | MO01        | Immortal Bird       | IN12        | blue revolution     | TR04        | ALESTA                        |
+| 10 | 12:00 - 12:20 | IN06        | Offset              | HK01        | HKUST AUV           | IN14        | Brahmaputra                   |
+| 11 | 12:20 - 12:40 | SG01        | HornetX             | AU01        | sUNSWim             | ID10        | Marine Belido                 |
+| 12 | 12:40 - 1:00  | AZ01        | DeepDivers          | SG03        | SUTD_UWU            | BD01        | IUB BongoMarine               |
+| 13 | 1:00  - 1:20  | LK02        | Team Diyakawa       | RU01        | geek.py             | RU02        | Hydronautics                  |
+| 14 | 1:20  - 1:40  | MY01        | UTM AUV ELITE (UAE) | IN08        | Team Varuna         | TR05        | FangTooth                     |
+| 15 | 1:40  - 2:00  | ID02        | Tech SAS            | IN04        | MTS AUV-ZHCET       | TR01        | ABYSS                         |
+| 16 | 2:00  - 2:20  | IN15        | AUV-IITK            | IN09        | Dreadnoughtrobotics | SA01        | AquaDrag                      |
+| 17 | 2:20  - 2:40  | SG02        | Team Torpedo        | BD02        | SUST Onushondhan    | TR03        | SOBAT AUV TEAM                |
+
