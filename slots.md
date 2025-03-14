@@ -30,5 +30,5 @@ Updated : **7th March 2025**
 | 14 | 1:20  - 1:40  | MY01        | UTM AUV ELITE (UAE) | IN08        | Team Varuna         | TR05        | FangTooth                     |
 | 15 | 1:40  - 2:00  | ID01        | FIToplankton        | IN04        | MTS AUV-ZHCET       | TR01        | ABYSS                         |
 | 16 | 2:00  - 2:20  | IN15        | AUV-IITK            | IN09        | Dreadnoughtrobotics | SA01        | AquaDrag                      |
-| 17 | 2:20  - 2:40  | SG02        | Team Torpedo        | BD02        | SUST Onushondhan    | TR03        | SOBAT AUV TEAM                |
+| 17 | 2:20  - 2:40  | SG02        | Team Torpedo        | TR03        | SOBAT AUV TEAM      | BD02        | SUST Onushondhan              |
 
