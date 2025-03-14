@@ -16,7 +16,7 @@ Updated : **7th March 2025**
 |    |               | **Team ID** | **Team Name**       | **Team ID** | **Team Name**       | **Team ID** | **Team Name**                 |
 | 1  | 9:00  - 9:20  | HK02        | CityUHK - PIONEER   | ID04        | HYDROships          | HK04        | Searious Business             |
 | 2  | 9:20  - 9:40  |             |                     | TR02        | MYS Abdülhamid      | ID05        | Barelang Marine Robotics Team |
-| 3  | 9:40  - 10:00 | ID06        | N7-AUV              | ID01        | FIToplankton        | ID07        | Skullers Boro HMFT-ITB        |
+| 3  | 9:40  - 10:00 | ID06        | N7-AUV              | ID02        | Tech SAS            | ID07        | Skullers Boro HMFT-ITB        |
 | 4  | 10:00 - 10:20 | IN07        | AUV Society IIITDM  | SG04        | Venturer SP         | SG05        | Mecatron (Kevin AUV)          |
 | 5  | 10:20 - 10:40 | ID08        | Subnautic Rimau     | ID09        | Banyubramanta       | ID11        | N3.2-AUV                      |
 | 6  | 10:40 - 11:00 | ID03        | MARE VICTOR         | HK03        | Manta Ray           | IN01        | HydroBots HAVOC               |
@@ -28,7 +28,7 @@ Updated : **7th March 2025**
 | 12 | 12:40 - 1:00  | AZ01        | DeepDivers          | SG03        | SUTD_UWU            | BD01        | IUB BongoMarine               |
 | 13 | 1:00  - 1:20  | LK02        | Team Diyakawa       | RU01        | geek.py             | RU02        | Hydronautics                  |
 | 14 | 1:20  - 1:40  | MY01        | UTM AUV ELITE (UAE) | IN08        | Team Varuna         | TR05        | FangTooth                     |
-| 15 | 1:40  - 2:00  | ID02        | Tech SAS            | IN04        | MTS AUV-ZHCET       | TR01        | ABYSS                         |
+| 15 | 1:40  - 2:00  | ID01        | FIToplankton        | IN04        | MTS AUV-ZHCET       | TR01        | ABYSS                         |
 | 16 | 2:00  - 2:20  | IN15        | AUV-IITK            | IN09        | Dreadnoughtrobotics | SA01        | AquaDrag                      |
 | 17 | 2:20  - 2:40  | SG02        | Team Torpedo        | BD02        | SUST Onushondhan    | TR03        | SOBAT AUV TEAM                |
 
