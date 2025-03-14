@@ -15,9 +15,9 @@ Updated : **7th March 2025**
 |----|---------------|-------------|---------------------|-------------|---------------------|-------------|-------------------------------|
 |    |               | **Team ID** | **Team Name**       | **Team ID** | **Team Name**       | **Team ID** | **Team Name**                 |
 | 1  | 9:00  - 9:20  | HK02        | CityUHK - PIONEER   | ID04        | HYDROships          | HK04        | Searious Business             |
-| 2  | 9:20  - 9:40  |             |                     | TR02        | MYS Abdülhamid      | ID05        | Barelang Marine Robotics Team |
+| 2  | 9:20  - 9:40  | TR02        | MYS Abdülhamid      |             |                     | ID05        | Barelang Marine Robotics Team |
 | 3  | 9:40  - 10:00 | ID06        | N7-AUV              | ID02        | Tech SAS            | ID07        | Skullers Boro HMFT-ITB        |
-| 4  | 10:00 - 10:20 |             |                     | SG04        | Venturer SP         | SG05        | Mecatron (Kevin AUV)          |
+| 4  | 10:00 - 10:20 | SG04        | Venturer SP         |             |                     | SG05        | Mecatron (Kevin AUV)          |
 | 5  | 10:20 - 10:40 | ID08        | Subnautic Rimau     | ID09        | Banyubramanta       | ID11        | N3.2-AUV                      |
 | 6  | 10:40 - 11:00 | ID03        | MARE VICTOR         | HK03        | Manta Ray           | IN01        | HydroBots HAVOC               |
 | 7  | 11:00 - 11:20 | LK01        | Team Yathra         | IN02        | Team Black Pearl    | IN03        | Team Nirma AUV                |
