@@ -27,7 +27,7 @@ Updated : **7th March 2025**
 | 11 | 12:20 - 12:40 | SG01        | HornetX             | AU01        | sUNSWim             | ID10        | Marine Belido                 |
 | 12 | 12:40 - 1:00  | AZ01        | DeepDivers          | SG03        | SUTD_UWU            | BD01        | IUB BongoMarine               |
 | 13 | 1:00  - 1:20  | LK02        | Team Diyakawa       | RU01        | geek.py             | RU02        | Hydronautics                  |
-| 14 | 1:20  - 1:40  | MY01        | UTM AUV ELITE (UAE) | IN08        | Team Varuna         | TR05        | FangTooth                     |
+| 14 | 1:20  - 1:40  | MY01        | UTM AUV ELITE (UAE) | TR05        | FangTooth           | IN08        | Team Varuna                   |
 | 15 | 1:40  - 2:00  | ID01        | FIToplankton        | IN04        | MTS AUV-ZHCET       | TR01        | ABYSS                         |
 | 16 | 2:00  - 2:20  | IN15        | AUV-IITK            | IN09        | Dreadnoughtrobotics | SA01        | AquaDrag                      |
 | 17 | 2:20  - 2:40  | SG02        | Team Torpedo        | TR03        | SOBAT AUV TEAM      | BD02        | SUST Onushondhan              |
