@@ -34,9 +34,9 @@ Updated : **15th March 2025**
 
 ## Standby teams
 
-The following teams are to standby in case there is a change in the schedule and they are able to compete in the final round.
+The following teams are to standby in case there is a change in the schedule and they are able to compete in the final round. Teams will be notified if they are to compete by the Judges during the event.
 
-| Time      | Team ID | Team        | Institute                                           |
-|-----------|---------|-------------|-----------------------------------------------------|
-| 1430-1450 | IN14    | Brahmaputra | Birla Vishvakarma Mahavidyalaya Engineering College |
-| 1450-1510 | LK01    | Team Yathra | University of Peradeniya                            |
+ | Team ID | Team        | Institute                                           |
+ |---------|-------------|-----------------------------------------------------|
+ | IN14    | Brahmaputra | Birla Vishvakarma Mahavidyalaya Engineering College |
+ | LK01    | Team Yathra | University of Peradeniya                            |
